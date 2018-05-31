@@ -1,0 +1,13 @@
+.thumbnail img {
+    max-height: 170px;
+}
+
+.price {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.thumbnail .description {
+    color: #7f7f7f;
+    font-family: 'Fjalla One', sans-serif;
+}
