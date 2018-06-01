@@ -11,3 +11,17 @@
     color: #7f7f7f;
     font-family: 'Fjalla One', sans-serif;
 }
+
+.company{
+  font-size: 20px;
+  font-family: 'Fjalla One', sans-serif;
+}
+
+.pad{
+  padding-top: -15px;
+  padding-left: 35px;
+}
+
+.pad1{
+  padding-top: 1px;
+}
